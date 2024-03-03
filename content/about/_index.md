@@ -1,8 +1,8 @@
 ---
-title: Examples
+title: About
 menu:
   main:
-    weight: 3
+    weight: 99
     params:
       icon:
         vendor: bs
