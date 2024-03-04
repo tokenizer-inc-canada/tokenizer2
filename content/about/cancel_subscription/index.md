@@ -21,5 +21,5 @@ Developers are technically unable to cancel Apple iTunes subscriptions. Use this
 
 ## Android App
 
-Since Android payments are handled by Google Play, send a cancellation request directly to Google Support. Use this official ["Cancel, pause, or change a subscription on Google Play"](https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DAndroid) article to guide you through the process. Ensure you're logged in with the Google Play account used for the subscription.
+Since Android payments are handled by Google Play, send a cancellation request directly to Google Support. Use this official ["Cancel, pause, or change a subscription on Google Play"](https://support.google.com/googleplay/answer/7018481) article to guide you through the process. Ensure you're logged in with the Google Play account used for the subscription.
 
